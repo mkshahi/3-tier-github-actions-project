@@ -29,7 +29,8 @@ jobs:
       - name: Backend Compilation (Syntax Check)
         run: |
           cd api
-          find
+          find . -name "*.js" -exec node --check {} +
+
   gitleaks-scan:
     runs-on: agent-1
     needs: compile
