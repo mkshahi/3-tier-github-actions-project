@@ -119,6 +119,6 @@ jobs:
         with:
           context: ./api  
           push: true
-          tags: adijaiswal/backend:latest
+          tags: mkshahi/backend:latest
           file: ./api/Dockerfile
 
