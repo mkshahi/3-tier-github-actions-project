@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------------------------------------------------------
+|                                                        ListPolicies                                                         |
++----------------------------------------------------------------------------------+------------------------------------------+
+|                                        ARN                                       |                  Name                    |
++----------------------------------------------------------------------------------+------------------------------------------+
+|  arn:aws:iam::aws:policy/AmazonEKSClusterPolicy                                  |  AmazonEKSClusterPolicy                  |
+|  arn:aws:iam::aws:policy/AmazonEKS_CNI_Policy                                    |  AmazonEKS_CNI_Policy                    |
+|  arn:aws:iam::aws:policy/AmazonEKSServicePolicy                                  |  AmazonEKSServicePolicy                  |
+|  arn:aws:iam::aws:policy/AmazonEKSWorkerNodePolicy                               |  AmazonEKSWorkerNodePolicy               |
+|  arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAmazonEKSNodegroup    |  AWSServiceRoleForAmazonEKSNodegroup     |
+|  arn:aws:iam::aws:policy/AmazonEKSFargatePodExecutionRolePolicy                  |  AmazonEKSFargatePodExecutionRolePolicy  |
+|  arn:aws:iam::aws:policy/aws-service-role/AmazonEKSForFargateServiceRolePolicy   |  AmazonEKSForFargateServiceRolePolicy    |
+|  arn:aws:iam::aws:policy/aws-service-role/AmazonEKSServiceRolePolicy             |  AmazonEKSServiceRolePolicy              |
+|  arn:aws:iam::aws:policy/AmazonEKSVPCResourceController                          |  AmazonEKSVPCResourceController          |
+|  arn:aws:iam::aws:policy/aws-service-role/AmazonEKSConnectorServiceRolePolicy    |  AmazonEKSConnectorServiceRolePolicy     |
+|  arn:aws:iam::aws:policy/aws-service-role/AmazonEKSLocalOutpostServiceRolePolicy |  AmazonEKSLocalOutpostServiceRolePolicy  |
+|  arn:aws:iam::aws:policy/AmazonEKSLocalOutpostClusterPolicy                      |  AmazonEKSLocalOutpostClusterPolicy      |
+|  arn:aws:iam::aws:policy/AmazonEKSWorkerNodeMinimalPolicy                        |  AmazonEKSWorkerNodeMinimalPolicy        |
+|  arn:aws:iam::aws:policy/AmazonEKSNetworkingPolicy                               |  AmazonEKSNetworkingPolicy               |
+|  arn:aws:iam::aws:policy/AmazonEKSLoadBalancingPolicy                            |  AmazonEKSLoadBalancingPolicy            |
+|  arn:aws:iam::aws:policy/AmazonEKSBlockStoragePolicy                             |  AmazonEKSBlockStoragePolicy             |
+|  arn:aws:iam::aws:policy/AmazonEKSComputePolicy                                  |  AmazonEKSComputePolicy                  |
+|  arn:aws:iam::aws:policy/aws-service-role/AmazonEKSDashboardServiceRolePolicy    |  AmazonEKSDashboardServiceRolePolicy     |
+|  arn:aws:iam::aws:policy/AmazonEKSDashboardConsoleReadOnly                       |  AmazonEKSDashboardConsoleReadOnly       |
++----------------------------------------------------------------------------------+------------------------------------------+
